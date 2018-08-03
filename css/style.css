@@ -6,7 +6,7 @@
 body{
   max-width:100%;
 }
-@media screen and (min-width:900){
+@media screen and (min-width:900px){
   body{
       padding:80px 250px;
   }
