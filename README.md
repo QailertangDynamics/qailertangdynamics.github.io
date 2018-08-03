@@ -1,5 +1,5 @@
 
-![Qailer Logo](https://media.discordapp.net/attachments/435196699259043851/474961471382749212/msRMDL5s4fs9c7OVbZwz8zq9gIKapAGHJZT2-QiIV35h-SSZf3D5G21mGcTwpliK9R4ry0xyfKmpbFPdXtAcQrXR2p4X9IPVSFl4.png?width=360&height=169)
+![Qailer Logo](https://media.discordapp.net/attachments/435196699259043851/474961471382749212/msRMDL5s4fs9c7OVbZwz8zq9gIKapAGHJZT2-QiIV35h-SSZf3D5G21mGcTwpliK9R4ry0xyfKmpbFPdXtAcQrXR2p4X9IPVSFl4.png)
 
 # Qailertang Dynamics
 ### A constant state of innovation: Engineering a better tomorrow
@@ -15,6 +15,7 @@ We pride ourselves in building machines that both break boundaries and work in t
 
 
 ---
+![](https://media.discordapp.net/attachments/435196699259043851/474970665305374720/1k0E1dxG6PoMyW1r2tz_ZVkQ_vxNogAHMgFNT3xfahqYFyfklclJkCdOsBeKsJlY.png)
 
 # Project Constellation
 
