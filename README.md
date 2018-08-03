@@ -15,7 +15,7 @@ We pride ourselves in building machines that both break boundaries and work in t
 
 
 ---
-![](https://media.discordapp.net/attachments/435196699259043851/474970665305374720/1k0E1dxG6PoMyW1r2tz_ZVkQ_vxNogAHMgFNT3xfahqYFyfklclJkCdOsBeKsJlY.png)
+
 
 # Project Constellation
 
@@ -23,6 +23,7 @@ Our latest release designed for high-standard customers that want bleeding-edge 
 
 Constellation® units come in four distinct series with two models each:
 
+![](https://media.discordapp.net/attachments/435196699259043851/474970665305374720/1k0E1dxG6PoMyW1r2tz_ZVkQ_vxNogAHMgFNT3xfahqYFyfklclJkCdOsBeKsJlY.png)
 
 ## SERIES ORIONIS™ - Military Grade Mechanoids
 
