@@ -68,7 +68,8 @@ Canis™ units are made to look beautiful and feel fancy.
 
 The default outfit for these units is the classic Meridian Housekeeper Attire, customers can request custom outfits contacting our sales representatives.
 
- ### CANIS™ Models availables
+### CANIS™ Models availables
+ 
 #### Alpha Model - Procyon™ (Male)
 Conversational bias into passive-voiced interaction. This model usually receives updates later than other models, as they are deemed more stable and polished. Recommended to users that want a more contained and discrete figure in their homes.
 #### Beta Model - Gomeisa™ (Female)
