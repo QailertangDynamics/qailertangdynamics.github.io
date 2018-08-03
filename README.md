@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/QailertangDynamics/qailertangdynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an era of man to the power of machine: not man versus machine, but man and machine. In addition to technological change, this new age requires us to change how we do our work.
 
-### Markdown
+Helping the future arrive is what we do. We solve the great problems of our times. we create innovative technologies that define eras, while no one knows what's going to change the world next, we're probably already working on it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We began as a spin off from the North Amarok Technology Academy, where we developed the first animal-like mechanoids. Now we are taking the next step, combining the principles of dynamic control and balance with sophisticated mechanical designs, cutting edge electronics, and software for perception, navigation and intelligence. Qualiertang Dynamics has an extraordinary technical team of engineers and scientists who seamlessly combine advanced analytical thinking with bold engineering.
 
-```markdown
-Syntax highlighted code block
+We pride ourselves in building machines that both break boundaries and work in the real world.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QailertangDynamics/qailertangdynamics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
