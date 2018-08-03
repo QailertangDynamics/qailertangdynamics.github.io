@@ -33,7 +33,7 @@ Increased armor specs, 120lbs heavier. Supports Heavy artillery mounts. Recommen
 #### Beta Model - Rigel™ (Female)
 Lightweight materials, more discrete armor, wider sensor array range. Recommended for civilians and for users that wan't a "less agressive" presentation.
 
-*Orionis™ models aren't meant to be used actively as combat units, performance benchmarks and durability does not apply to these conditions.*
+> *Orionis™ models aren't meant to be used actively as combat units, performance benchmarks and durability does not apply to these conditions.*
 
 
 ## SERIES PISCIS AUSTRINUS™ - Industry Grade Mechanoids
@@ -69,12 +69,12 @@ The default outfit for these units is the classic Meridian Housekeeper Attire, c
  ### CANIS™ Models availables
 #### Alpha Model - Procyon™ (Male)
 Conversational bias into passive-voiced interaction. This model usually receives updates later than other models, as they are deemed more stable and polished. Recommended to users that want a more contained and discrete figure in their homes.
-#### ~~Beta Model - Gomeisa™ (Female)
-No conversational bias installed, tends to be more active-voice on its interactions. Experimental self-awareness module included for maximum humanlike interaction.~~
+#### Beta Model - Gomeisa™ (Female)
+~~No conversational bias installed, tends to be more active-voice on its interactions. Experimental self-awareness module included for maximum humanlike interaction.~~
 
-*(Notice: GOMEISA™ Model was discontinued due to delays in the development, and was replaced by the respective B model from SERIES GEMINIS™ units.)*
+> *(Notice: GOMEISA™ Model was discontinued due to delays in the development, and was replaced by the respective B model from SERIES GEMINIS™ units.)*
 
 #### Gamma Model - Pollux™ (Female)
 This model brings a lot of experimental features developed for the SERIES GEMINIS™. This is the first model to receive the Unified Memory Matrix® that can exchange information with all copies of this unit. The Geminis™ units were designed for the younger public, with a strong and unpreprogrammed personality that would be shaped from all the interactions it gets along the way.
 
-CANIS™ Gamma Model can also be interchangeably be used with LEONIS™ and PISCIS AUSTRINUS™ units. 
+> CANIS™ Gamma Model can also be interchangeably be used with LEONIS™ and PISCIS AUSTRINUS™ units. 
